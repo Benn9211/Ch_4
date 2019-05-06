@@ -1,6 +1,7 @@
 # Ch_4
--How to make Data and Time and button in Java Script
-## 	<body>
+-How to make Data and Time and button in Java Script:
+## 	Button
+            <body>
             <h1>This is test run</h1>
             <button type="button"
             onclick="alert('Go to the next page.')">
@@ -8,7 +9,8 @@
             <h1>Date  and Time</h1>
             
             
-##     <script type="text/javascript">
+##         Data and Time UTC and Local
+           <script type="text/javascript">
             now= new Date();
             localtime = now.toString();
             utctime = now.toGMTString();
