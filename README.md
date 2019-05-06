@@ -6,6 +6,8 @@
             onclick="alert('Go to the next page.')">
             Click Me!</button>
             <h1>Date  and Time</h1>
+            
+            
 ##     <script type="text/javascript">
             now= new Date();
             localtime = now.toString();
@@ -20,6 +22,4 @@
             milsec = now.getMilliseconds();
             document.write(hours + ":" + mins + ":" + secs + ":" + milsec + ":" + milsec);
             document.write("<h2>");
-
-</script>
-
+            </script>
