@@ -25,3 +25,4 @@
             document.write(hours + ":" + mins + ":" + secs + ":" + milsec + ":" + milsec);
             document.write("<h2>");
             </script>
+# &copy;
